@@ -1,0 +1,59 @@
+{
+    "constants": [
+        {
+            "name": "Speed of light in vacuum",
+            "si-symbol": "c",
+            "value": 299792458
+        },
+        {
+            "name": "Gravitational constant",
+            "si-symbol": "G",
+            "value": 0.0000000000667430
+        },
+        {
+            "name": "Planck's constant",
+            "si-symbol": "h",
+            "value": 0.000000000000000000000000000000000662607015
+        },
+        {
+            "name": "Elementary charge",
+            "si-symbol": "𝑒",
+            "value": 0.0000000000000000001602176634
+        },
+        {
+            "name": "Boltzmann constant",
+            "si-symbol": "k",
+            "value": 0.00000000000000000000138064852
+        },
+        {
+            "name": "Gas constant",
+            "si-symbol": "R",
+            "value": 8.3144598
+        },
+        {
+            "name": "Faraday constant",
+            "si-symbol": "F",
+            "value": 96485.33289
+        },
+        {
+            "name": "Magnetic constant",
+            "si-symbol": "my",
+            "value": 0.000000000012566370614
+        },
+        {
+            "name": "Electric constant",
+            "si-symbol": "ε₀",
+            "value": 0.000000000000000000000000008854187817
+        },
+        {
+            "name": "Avogadro's number",
+            "si-symbol": "Nₐ",
+            "value": 6.02214076e23
+        },
+        {
+            "name": "Stefan-Boltzmann constant",
+            "si-symbol": "σ",
+            "value": 5.670374419e-8
+        }
+    ]
+}
